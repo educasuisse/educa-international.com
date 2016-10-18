@@ -1,6 +1,6 @@
 languageCode = "fr-CH"
 baseurl = "https://educasuisse.ch/"
-title = "Conservatoire des Arts, des Sciences et des Lettres"
+title = "Accueil"
 
 [[menu.main]]
     name = "Accueil"
