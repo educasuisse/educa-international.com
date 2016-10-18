@@ -1,5 +1,5 @@
 languageCode = "fr-CH"
-baseurl = "https://educasuisse.ch/"
+baseurl = "https://educa-international.com/"
 title = "Accueil"
 
 [[menu.main]]
