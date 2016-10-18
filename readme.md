@@ -1,6 +1,6 @@
-# Educasuisse.ch
+# Educa-international.com
 
-This repository contain the website for [Educasuisse](https://educasuisse.ch/).
+This repository contain the website for [Educa-international](https://educa-international.com/).
 
 It is based on [Hugo](http://gohugo.io/).
 
@@ -9,8 +9,8 @@ It is based on [Hugo](http://gohugo.io/).
 First of all, you can clone the repository:
 
 ```sh
-git clone git@github.com:educasuisse/educasuisse.ch.git
-cd educasuisse.ch
+git clone git@github.com:educasuisse/educa-international.com.git
+cd educa-international.com
 ```
 
 ### Content and layouts
