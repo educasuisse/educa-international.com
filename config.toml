@@ -7,7 +7,7 @@ title = "Accueil"
     weight = 0
     url = "/"
 [[menu.main]]
-    name = "À propos de Educasuisse"
+    name = "À propos d'Educa-international"
     weight = 10
     identifier = "about"
     url = "/a-propos/"
