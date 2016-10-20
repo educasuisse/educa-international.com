@@ -2,7 +2,7 @@
 title: "À propos"
 ---
 
-# À propos d'Educa-international
+# À propos d'Educainternational
 
 L’association Educainternational a comme but principal la fondation d’institutions et d’établissements à caractère philanthropique et à vocation éducative en participant à la diffusion de la culture et de l’éducation en Suisse et outre frontières.
 
