@@ -25,6 +25,7 @@ N'hésitez pas à nous contacter pour toute information!
       <textarea class="pa2 input-reset ba bg-transparent w-100 measure" rows="4" cols="50" name="message" id="message"></textarea>
     </div>
   </fieldset>
+  <div class="g-recaptcha" data-sitekey="6LfbxgkUAAAAAL9i9RBlnSWOWAtGMXRbHej7s5tw"></div>
   <div class="mt3">
     <input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6" type="submit" value="Envoyer">
   </div>
@@ -40,3 +41,5 @@ Téléphone : [+41 (0)22 786 48 21](tel:+412278648121)
 E-mail : [info@educasuisse.ch](mailto:info@educasuisse.ch)
 
 ![Contact map](/img/contact/contact-map.png)
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
