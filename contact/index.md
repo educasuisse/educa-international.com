@@ -10,7 +10,7 @@ layout: default
 
   <form action="https://formspree.io/mvggaejx" method="POST" accept-charset="utf-8">
     <input type="text" name="_gotcha" style="display: none">
-    <input type="hidden" name="_next" value="http://educa-international.ch/merci/" />
+    <input type="hidden" name="_next" value="http://educa-international.com/merci/" />
     <fieldset id="form-message" class="ba b--transparent ph0 mh0">
       <div class="mt3">
         <label class="db fw4 lh-copy f6" for="name">Nom, Prénom</label>
