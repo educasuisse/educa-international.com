@@ -8,7 +8,7 @@ layout: default
 
   <p>N'hésitez pas à nous contacter pour toute information!</p>
 
-  <form action="https://formspree.io/xjvqajvx" method="POST" accept-charset="utf-8">
+  <form action="https://formspree.io/mvggaejx" method="POST" accept-charset="utf-8">
     <input type="text" name="_gotcha" style="display: none">
     <input type="hidden" name="_next" value="http://educa-international.ch/merci/" />
     <fieldset id="form-message" class="ba b--transparent ph0 mh0">
